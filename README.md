@@ -1,0 +1,1 @@
+# SeqOccIn---A-Bos-taurus-sequencing-methods-benchmark-for-1assembly-haplotyping-and-variant-calling
